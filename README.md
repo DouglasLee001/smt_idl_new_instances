@@ -5,5 +5,5 @@ The job_shop_scheduling folder consists of 120 instances encoded from job shop s
 
 The harness folder consists of 15 instances provided by the author of RVPredict, generated when applying RVPredict on the Dacapo benchmark suit. Further information can refer to paper:
 
-Jeff Huang, Patrick O'Neil Meredith, Grigore Rosu
+Jeff Huang, Patrick O'Neil Meredith, Grigore Rosu:
 Maximal sound predictive race detection with control flow abstraction. PLDI 2014: 337-348
