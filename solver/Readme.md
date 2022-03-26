@@ -4,3 +4,4 @@ The binary file is located in bin folder. Note that the front-end compiler parti
 
 The command to run the solver: ./LS-LIA {filename}
 
+We have updated LS-LIA to handle ITE and Distinct operators.
